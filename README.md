@@ -1,6 +1,9 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Java Projects
 - 🌱 I’m learning React and NodeJs...
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!--
 **astha24verma/astha24verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
