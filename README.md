@@ -5,7 +5,7 @@
 -->
 
 <div id="header" align="center">
-    <img src=".../giphy.gif" width="300"/> 
+    <img src="https://media4.giphy.com/media/bcKmIWkUMCjVm/giphy.gif?cid=ecf05e47173hjhi2xz5ma30g2l6ne3eixfmuww5ot7v7tr9s&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/> 
 </div>
 
 <div id="badges" align="center">
@@ -24,7 +24,7 @@
 </h1>
 
 
-- 👀 Passionate Creative Graphic Designer and Web Developer with a zest for innovation.
+- 👀 Passionate Web Developer with a zest for innovation.
 - 🌱 Currently pursuing a Master of Computer Applications.
 - 👩‍💻 I thrive on exploring the dynamic world of technology, embracing new challenges, and transforming ideas into engaging web experiences.
 - 🤝 Committed to leveraging my problem-solving skills and technical expertise to tackle real-world challenges and contribute to the ever-evolving web development landscape.
@@ -55,9 +55,9 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=astha24verma&theme=light&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=astha24verma&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astha24verma&layout=compact&theme=vision-friendly-light)](https://github.com/astha24verma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astha24verma&layout=compact&theme=vision-friendly-dark)](https://github.com/astha24verma/github-readme-stats)
 
 
 <!--
