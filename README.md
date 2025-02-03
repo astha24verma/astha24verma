@@ -25,7 +25,7 @@
 
 
 - 👀 Passionate Web Developer with a zest for innovation.
-- 🌱 Currently pursuing a Master of Computer Applications.
+- 🌱 Currently pursuing a career in Software Engineering.
 - 👩‍💻 I thrive on exploring the dynamic world of technology, embracing new challenges, and transforming ideas into engaging web experiences.
 - 🤝 Committed to leveraging my problem-solving skills and technical expertise to tackle real-world challenges and contribute to the ever-evolving web development landscape.
 - 💻 Let's code, create, and collaborate!
